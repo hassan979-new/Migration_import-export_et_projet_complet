@@ -78,3 +78,9 @@ Inconvénients :
 - Pour des bases grandes ou avec plusieurs tables : mysqlpump est plus efficace.
 
 - Pour automatiser ou programmer les tâches : MySQL Shell est utile, surtout avec Python ou JS.
+## 🧑‍💻 Author
+
+- 👤 Agouram Hassan
+- 🏫 Programmation orientée objet : java
+- 🎓 Instructor	Mr.LACHGAR
+- 📅 18 décembre 2025
