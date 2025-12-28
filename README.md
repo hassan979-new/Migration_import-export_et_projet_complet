@@ -81,6 +81,6 @@ Inconvénients :
 ## 🧑‍💻 Author
 
 - 👤 Agouram Hassan
-- 🏫 Programmation orientée objet : java
+- 🏫  Bases de données
 - 🎓 Instructor	Mr.LACHGAR
-- 📅 18 décembre 2025
+- 📅 28 décembre 2025
